@@ -9,8 +9,8 @@ Welcome to my personal portfolio site!
 
 ## Live Site
 
-🔗 [View the portfolio here](https://yourusername.github.io/portfolio-site/)
-[etsy](https://foreverpressednailco.etsy.com)
+🔗 [View the portfolio here](https://rcharles87.github.io/portfolio-site/)
+
 
 ## Sections
 
